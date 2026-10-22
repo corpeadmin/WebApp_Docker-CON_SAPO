@@ -1,0 +1,16 @@
+# Environment / secrets
+.env
+
+# .NET
+api/bin/
+api/obj/
+api/.vs/
+
+# Node
+web/node_modules/
+web/dist/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
